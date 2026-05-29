@@ -1,0 +1,35 @@
+{
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "苹果",
+      "alert_up": 5.0,
+      "alert_down": -5.0
+    },
+    {
+      "symbol": "TSLA",
+      "name": "特斯拉",
+      "alert_up": 5.0,
+      "alert_down": -5.0
+    },
+    {
+      "symbol": "NVDA",
+      "name": "英伟达",
+      "alert_up": 5.0,
+      "alert_down": -5.0
+    },
+    {
+      "symbol": "MSFT",
+      "name": "微软",
+      "alert_up": 3.0,
+      "alert_down": -3.0
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "谷歌",
+      "alert_up": 3.0,
+      "alert_down": -3.0
+    }
+  ],
+  "refresh_seconds": 30
+}
